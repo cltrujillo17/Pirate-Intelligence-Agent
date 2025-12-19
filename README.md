@@ -58,8 +58,10 @@ When designing intelligent systems, I have an ethical responsibility to ensure t
 
 ## Repository Contents
 - `TreasureHuntGame_starterCode.ipynb` – Jupyter Notebook containing the trained pirate intelligent agent
+- `TreasureHuntGame_starterCode.html` – Exported HTML version of the notebook
 - `TreasureMaze.py` – Game environment (provided)
 - `GameExperience.py` – Experience replay logic (provided)
+- `requirements.txt` – Project dependencies (provided)
 - `README.md` – Project description and reflection
 
 ---
